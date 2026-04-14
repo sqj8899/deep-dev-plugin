@@ -1,0 +1,12 @@
+{
+  "name": "deep-dev",
+  "description": "四阶段深度开发工作流（Codex + Claude Code 双引擎）：研究 → 计划+注释循环 → 实现 → 验证。适用于复杂功能开发、重构等需要深度理解代码库的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "songqijun"
+  },
+  "homepage": "https://github.com/songqijun/deep-dev-plugin",
+  "repository": "https://github.com/songqijun/deep-dev-plugin",
+  "license": "MIT",
+  "keywords": ["deep-dev", "codex", "workflow", "planning", "research", "verification"]
+}
